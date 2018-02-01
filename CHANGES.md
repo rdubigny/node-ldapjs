@@ -1,4 +1,9 @@
+
 # ldapjs Changelog
+
+## 1.0.3
+
+- Fix ldap concurrent failures
 
 ## 1.0.2
 
